@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "819430831992",
+    "project_id": "chatapp-84cbf",
+    "storage_bucket": "chatapp-84cbf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819430831992:android:c34dadca6ce756c84e7a8d",
+        "android_client_info": {
+          "package_name": "com.ercancamli.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "819430831992-cm7oqftvvva0u2hqtm71s8q6iprqvjv0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFdNKV8oHBAezAdgbpZWDRo3ymf_JlJio"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "819430831992-cm7oqftvvva0u2hqtm71s8q6iprqvjv0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
